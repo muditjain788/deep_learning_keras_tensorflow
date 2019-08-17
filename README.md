@@ -1,5 +1,4 @@
 # Deep Learning Using Keras,Tensorflow
-## material of pythonprogramming.net
 
 
 Welcome we'll be discussing Convolutional Neural Networks (Convnets and CNNs), using one to classify dogs and cats with the dataset we built in 1 notebook.
