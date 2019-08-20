@@ -15,7 +15,7 @@ Why is this? Well, if you just have a single hidden layer, the model is going to
 
 A single neuron might look as follows:
 
-![image 2] (https://pythonprogramming.net/static/images/machine-learning/artificial-neuron-model-sigmoid-activiation-function.png)
+![image2](https://pythonprogramming.net/static/images/machine-learning/artificial-neuron-model-sigmoid-activiation-function.png)
 
 - So this is really where the magic happens. The idea is a single neuron is just sum of all of the inputs x weights, fed through some sort of activation function. 
 - The activation function is meant to simulate a neuron firing or not. 
